@@ -9,9 +9,15 @@
   <img src="https://github.com/mnabihali/mnabihali/blob/main/me.png" align="right" width="25%"/>
 
 
-<br />
-<br />
-        
+
+**Talking about Personal Stuffs:**
+
+- 🌱 I’m currently learning Speech enhancement for speech classification; 
+- 👯 I’m looking to collaborate on Speech enhancmeent to robust back-end speech recognition🤝;
+- 🤔 I’m looking for help with Speech Processing and Signal Processing 😭;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: mnabih@fbk.eu;
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://pytorch.org/assets/images/logo-icon.svg"></code>
@@ -21,17 +27,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 
-<!--
-**mnabihali/mnabihali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
