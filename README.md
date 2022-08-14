@@ -8,7 +8,7 @@
     
   <img src="https://github.com/mnabihali/mnabihali/blob/main/me.png" align="right" width="25%"/>
 
-
+  </p>
         
 **Languages and Tools:**  
 
