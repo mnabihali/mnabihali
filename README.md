@@ -8,15 +8,15 @@
     
   <img src="https://github.com/mnabihali/mnabihali/blob/main/me.png" align="right" width="25%"/>
 
-
+**About me     **
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Speech enhancement for speech classification; 
-- 👯 I’m looking to collaborate on Speech enhancmeent to robust back-end speech recognition🤝;
-- 🤔 I’m looking for help with Speech Processing and Signal Processing 😭;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: mnabih@fbk.eu;
+- 🌱 I’m currently learning Speech enhancement for speech classification.
+- 👯 I’m looking to collaborate on Speech enhancmeent to robust back-end speech recognition🤝.
+- 🤔 I’m looking for help with Speech Processing and Signal Processing 😭.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: mnabih@fbk.eu.
 
 **Languages and Tools:**  
 
