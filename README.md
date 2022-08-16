@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Nabih Ali 👋</h1>
 <br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mnabihali)
+![](https://visitor-badge.glitch.me/badge?page_id=mnabihali.mnabihali)
 
 
 <p align="center">
