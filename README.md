@@ -29,5 +29,5 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
 
-![mnabihali GitHub stats](https://github-readme-stats.vercel.app/api?username=JusperLee&theme=radical&show_icons=true&count_private=true&include_all_commits=true) ![mnabihali](https://github-readme-stats.vercel.app/api/top-langs/?username=JusperLee&hide=html&layout=compact&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JusperLee&theme=monokai&count_private=true&include_all_commits=true)
+![Mohamed Nabih GitHub stats](https://github-readme-stats.vercel.app/api?username=mnabihali&theme=radical&show_icons=true&count_private=true&include_all_commits=true) ![Mohamed Nabih](https://github-readme-stats.vercel.app/api/top-langs/?username=mnabihali&hide=html&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnabihali&theme=monokai&count_private=true&include_all_commits=true)
