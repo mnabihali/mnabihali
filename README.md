@@ -1,4 +1,13 @@
 <h1 align="center">Hi, I'm Mohamed Nabih Ali 👋</h1>
+<br/>
+
+<a href="https://www.linkedin.com/in/%E5%87%AF-%E6%9D%8E-0bb2451a4/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.zhihu.com/people/li-kai-34-50">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/zhihu.svg" />
+</a>
+
 
 <p align="center">
     <a href="https://twitter.com/Mo_Nabihovich"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
