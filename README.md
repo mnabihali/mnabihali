@@ -35,5 +35,5 @@ Hi, I'm Mohamed Nabih Ali, a PhD student from University of Trento. Currently, I
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 
 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnabihali&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)![Mohamed Nabih](https://github-readme-stats.vercel.app/api/top-langs/?username=mnabihali&hide=html&layout=compact&theme=radical)
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnabihali&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  ![Mohamed Nabih](https://github-readme-stats.vercel.app/api/top-langs/?username=mnabihali&hide=html&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnabihali&theme=monokai&count_private=true&include_all_commits=true)
