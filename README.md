@@ -33,7 +33,7 @@ Hi, I'm Mohamed Nabih Ali, a PhD student from University of Trento. Currently, I
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h9-tect&show_icons=true&locale=en&layout=compact&theme=radical" alt="h9-tect" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h9-tect&show_icons=true&locale=en&layout=compact&theme=radical" alt="h9-tect" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnabihali&show_icons=true&locale=en&theme=radical" alt="mnabihali" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnabihali&theme=radical" alt="mnabihali" /></p>
 
