@@ -37,3 +37,5 @@ Hi, I'm Mohamed Nabih Ali, a PhD student from University of Trento. Currently, I
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnabihali&show_icons=true&locale=en&theme=radical" alt="mnabihali" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnabihali" alt="mnabihali" /></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnabihali&theme=monokai&count_private=true&include_all_commits=true)
+
