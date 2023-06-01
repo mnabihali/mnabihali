@@ -10,7 +10,7 @@
   <img src="https://github.com/mnabihali/mnabihali/blob/main/me.png" align="right" width="20%"/>
 
 **About me:**
-Hi, I'm Mohamed Nabih Ali, a PhD student from University of Trento. Currently, I am doing my research at [@SpeechTek Lab](https://speechtek.fbk.eu/), in [@Fondazione Bruno Kessler](https://www.fbk.eu/en/). My research activites.... 
+Hi, I'm Mohamed Nabih Ali. Currently a Post-doc researcher in [@Fondazione Bruno Kessler](https://www.fbk.eu/en/). Previously a PhD student from University of Trento. Currently, I am doing my research at [@SpeechTek Lab](https://speechtek.fbk.eu/), in [@Fondazione Bruno Kessler](https://www.fbk.eu/en/). My research activites includes Speech Enhancement, Speech Recgonition, Spoken Language Understanding, and Federated Learning. 
 
 
 **Talking about Personal Stuffs:**
